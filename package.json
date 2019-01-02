@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/arunkumarsundaramurthy/learn-reactjs/issues"
   },
-  "homepage": "https://github.com/arunkumarsundaramurthy/learn-reactjs#readme"
+  "homepage": "https://github.com/arunkumarsundaramurthy/learn-reactjs#readme",
+  "dependencies": {
+    "react": "16.7.0",
+    "react-dom": "16.7.0"
+  }
 }
